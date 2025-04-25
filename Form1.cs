@@ -21,8 +21,8 @@ namespace Create_repo_practice
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("안녕하세요, 이승민입니다.");
-            textBox1.Text = "안녕하세요, 이승민입니다.";
+            MessageBox.Show("안녕하세요.");
+            textBox1.Text = "안녕하세요.";
 
         }
 
