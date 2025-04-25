@@ -22,7 +22,7 @@ namespace Create_repo_practice
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("안녕하세요.");
-            textBox1.Text = "안녕하세요.";
+            textBox1.Text = "반갑습니다. 박현승입니다.";
 
         }
 
